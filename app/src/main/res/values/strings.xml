@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie</string>
+
+    <string name="popular">popular</string>
+    <string name="upcoming">upcoming</string>
+
+    <string name="api_key">api_key_required</string>
+    <string name="base_url">http://api.themoviedb.org/</string>
+    <string name="image_base_url_small">http://image.tmdb.org/t/p/w185/</string>
+    <string name="image_base_url_large">http://image.tmdb.org/t/p/w342/</string>
+</resources>
